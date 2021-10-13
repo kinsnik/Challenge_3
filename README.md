@@ -44,11 +44,13 @@ Going through the following below steps for the early, middle and late dataframe
 
 ```python
         profit_per_trade_early.sum()
+```
+8. Using the "cumsum" function, plot the cumulative "sum" of each of the three DataFrames. 
 
-8. Using the `cumsum` function, plot the cumulative sum of each of the three DataFrames. 
+![<Early Cumulative Profits>](./Screenshots/cumulative_profit_early.png)
 
 ```python
         cumulative_profit_early = profit_per_trade_early.cumsum()
 
-![<Early Cumulative Profits>](./Screenshots/cumulative_profit_early.png)
+```
 

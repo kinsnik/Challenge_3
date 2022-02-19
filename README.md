@@ -1,4 +1,4 @@
-# **Challenge_3 - Crypto Arbitrage Project**
+# **Crypto Arbitrage Project**
 
 ## **Analyzing the Profits from Arbitrage of Crypto using Bitstamp and Coinbase**
 
